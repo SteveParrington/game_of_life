@@ -1,0 +1,4 @@
+A Conway's Game of Life implementation that displays in a terminal.
+
+Example Usage (from the src directory):
+python game_of_life.py glider-gun
